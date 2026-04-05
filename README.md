@@ -1,7 +1,7 @@
 
 
 <p align="center">
-Hi there! My name is Abhijith and I'm a front-end web developer with expertise in HTML, CSS, JavaScript, and React.js.I’m also currently focusing on Python development to broaden my technical expertise.If you're interested in my work, have a project in mind, or just want to say hello, feel free to reach out through the contact options below.
+Hi there! My name is Abhijith and I'm a front-end web developer with expertise in HTML, CSS, JavaScript.I’m also currently focusing on Python development to broaden my technical expertise.If you're interested in my work, have a project in mind, or just want to say hello, feel free to reach out through the contact options below.
 </p>
 
 <p align="center">
