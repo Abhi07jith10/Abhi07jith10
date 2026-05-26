@@ -12,8 +12,8 @@ Hi there! My name is Abhijith and I'm a final year ECE student with a passion fo
 ---
 
 ### 😎 About Me
-- 🔥 Currently working on Front end web development.
-- 📚 Also focusing on python to broaden my technical expertise.
+- 🔥 Currently working on IoT development and AI-integrated embedded systems.
+- 📚 Also exploring Machine Learning and full-stack web development to broaden my technical expertise.
 - 💼 Looking for opportunities to grow and collaborate on impactful projects.
 - 📫 How to reach me: **abhijithssanal0@gmail.com**
 
