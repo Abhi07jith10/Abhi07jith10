@@ -31,6 +31,8 @@ Hi there! My name is Abhijith and I'm a final year ECE student with a passion fo
 <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/>
 </p>
 
 ---
