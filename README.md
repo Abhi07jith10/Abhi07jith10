@@ -1,7 +1,7 @@
 
 
 <p align="center">
-Hi there! My name is Abhijith and I'm a final year ECE student with a passion for IoT development, embedded systems, and AI-integrated solutions. I enjoy building projects that bridge the gap between hardware and software — from ML-powered disease detection systems to smart automation interfaces. I'm currently exploring opportunities in software and IoT development to apply my skills in real-world applications. If you're interested in my work, have a project in mind, or just want to say hello, feel free to reach out through the contact options below.
+Hi there! My name is Abhijith and a recent ECE graduate with a passion for IoT development, embedded systems, and AI-integrated solutions. I enjoy building projects that bridge the gap between hardware and software — from ML-powered disease detection systems to smart automation interfaces. I'm currently exploring opportunities in software and IoT development to apply my skills in real-world applications. If you're interested in my work, have a project in mind, or just want to say hello, feel free to reach out through the contact options below.
 </p>
 
 <p align="center">
