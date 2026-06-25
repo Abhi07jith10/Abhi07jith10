@@ -1,7 +1,7 @@
 
 
 <p align="center">
-Hi there! My name is Abhijith and a recent ECE graduate with a passion for IoT development, embedded systems, and AI-integrated solutions. I enjoy building projects that bridge the gap between hardware and software — from ML-powered disease detection systems to smart automation interfaces. I'm currently exploring opportunities in software and IoT development to apply my skills in real-world applications. If you're interested in my work, have a project in mind, or just want to say hello, feel free to reach out through the contact options below.
+Hi there! I'm Abhijith, a recent Electronics and Communication Engineering graduate with a strong passion for Web Development, Artificial Intelligence, and Software Engineering. I enjoy building innovative solutions that combine modern web technologies with AI-driven features to solve real-world problems. From developing responsive web applications and dashboards to creating machine learning models and intelligent automation systems, I am constantly exploring new technologies and expanding my skill set. I am currently seeking opportunities in Web Development, Software Development, and AI-powered application development where I can contribute, learn, and grow as a developer. If you'd like to discuss a project, collaborate, or simply connect, feel free to reach out through the contact options below.
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@ Hi there! My name is Abhijith and a recent ECE graduate with a passion for IoT d
 ---
 
 ### 😎 About Me
-- 🔥 Currently working on IoT development and AI-integrated embedded systems.
-- 📚 Also exploring Machine Learning and full-stack web development to broaden my technical expertise.
+- 🔥 Currently working on Front end web development and AI-integrated embedded systems.
+- 📚 Also exploring Machine Learning to broaden my technical expertisein AI field.
 - 💼 Looking for opportunities to grow and collaborate on impactful projects.
 - 📫 How to reach me: **abhijithssanal0@gmail.com**
 
