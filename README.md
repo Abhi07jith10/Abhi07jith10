@@ -33,8 +33,11 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Context%20API-61DAFB?logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-000000?logo=antdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 </p>
 
 ---
@@ -49,13 +52,16 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 <img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
 </p>
 
 ---
 
 ### 🎨 Design
 <p>
+<img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </p>
 
 ---
