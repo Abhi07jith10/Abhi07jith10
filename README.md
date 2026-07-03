@@ -19,26 +19,43 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 
 ---
 
-### 🚀 Languages & Tools
+### 🚀 Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>  
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?logo=ultralytics&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Web Development
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-000000?logo=antdesign&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?logo=ultralytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Design
+<p>
+<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
 </p>
 
 ---
