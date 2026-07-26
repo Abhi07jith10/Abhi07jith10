@@ -29,7 +29,7 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="center">Web Development</h3>
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -39,11 +39,7 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/React%20Context%20API-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white"/>
 </p>
 
 <h3 align="center">Backend & APIs</h3>
