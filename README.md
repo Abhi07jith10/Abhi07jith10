@@ -40,8 +40,22 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
 </p>
 
+<h3 align="center">Backend & APIs</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?logo=fastapi&logoColor=white"/>
+</p>
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
@@ -54,6 +68,7 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 </p>
 
 <h3 align="center">Design</h3>
