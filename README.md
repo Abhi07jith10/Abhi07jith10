@@ -12,7 +12,7 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 ---
 
 ### 😎 About Me
-- 🔥 Currently working on Front end web development and AI-integrated embedded systems.
+- 🔥 Currently working on Full stack development and AI-integrated systems.
 - 📚 Also exploring Machine Learning to broaden my technical expertisein AI field.
 - 💼 Looking for opportunities to grow and collaborate on impactful projects.
 - 📫 How to reach me: **abhijithssanal0@gmail.com**
