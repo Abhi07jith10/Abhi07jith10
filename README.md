@@ -75,5 +75,10 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
 </p>
 
+## 📈 Activity Graph
+
+[![Abhijith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)](https://github.com/YOUR_GITHUB_USERNAME)
+
+
 ---
 
