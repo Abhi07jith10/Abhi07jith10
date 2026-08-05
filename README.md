@@ -77,7 +77,7 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 
 ## 📈 Activity Graph
 
-[![Abhijith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Abhijith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi07jith10&theme=github-dark)](https://github.com/Abhi07jith10)
 
 
 ---
