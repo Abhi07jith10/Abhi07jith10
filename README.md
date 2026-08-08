@@ -40,8 +40,8 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white"/>
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF008F?style=flat&logo=framer&logoColor=white)
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-EF008F?logo=framer&logoColor=white"/>
 </p>
 
 <h3 align="center">Backend & APIs</h3>
@@ -53,6 +53,9 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white"/>
 </p>
 <h3 align="center">Tools & Technologies</h3>
 
@@ -60,14 +63,36 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?logo=ultralytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
 </p>
+
+
+<h3 align="center">AI and ML</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq-000000?logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?logo=ultralytics&logoColor=white"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center">Design</h3>
 
