@@ -40,6 +40,8 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white"/>
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF008F?style=flat&logo=framer&logoColor=white)
 </p>
 
 <h3 align="center">Backend & APIs</h3>
