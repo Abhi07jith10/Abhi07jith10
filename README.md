@@ -105,10 +105,7 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi07jith10&layout=compact&langs_count=10&theme=tokyonight&hide_border=false"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi07jith10&layout=compact&langs_count=10&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
