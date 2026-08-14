@@ -107,5 +107,14 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 [![Abhijith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi07jith10&theme=github-dark)](https://github.com/Abhi07jith10)
 
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false"
+    alt="Most Used Languages"
+  />
+</p>
+
 ---
 
