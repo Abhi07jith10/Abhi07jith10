@@ -96,9 +96,6 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
 
 ---
 
-## 📈 Contribution Graph
-
-[![Abhijith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi07jith10&theme=github-dark)](https://github.com/Abhi07jith10)
 
 ---
 
