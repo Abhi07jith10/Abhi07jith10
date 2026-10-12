@@ -94,11 +94,4 @@ Hi there! I'm Abhijith, a recent Electronics and Communication Engineering gradu
   <img src="https://img.shields.io/badge/Fusion%20360-0696D7?logo=autodesk&logoColor=white"/>
 </p>
 
----
 
-
----
-
-
-
----
